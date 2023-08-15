@@ -1,0 +1,197 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\asset-manifest.json",
+      "PackagePath": "staticwebassets\\asset-manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\assets\\categoryImages\\culture.jpg",
+      "PackagePath": "staticwebassets\\assets\\categoryImages\\culture.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\assets\\categoryImages\\drinks.jpg",
+      "PackagePath": "staticwebassets\\assets\\categoryImages\\drinks.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\assets\\categoryImages\\film.jpg",
+      "PackagePath": "staticwebassets\\assets\\categoryImages\\film.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\assets\\categoryImages\\food.jpg",
+      "PackagePath": "staticwebassets\\assets\\categoryImages\\food.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\assets\\categoryImages\\music.jpg",
+      "PackagePath": "staticwebassets\\assets\\categoryImages\\music.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\assets\\categoryImages\\travel.jpg",
+      "PackagePath": "staticwebassets\\assets\\categoryImages\\travel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\assets\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\assets\\placeholder.png",
+      "PackagePath": "staticwebassets\\assets\\placeholder.png"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\assets\\user.png",
+      "PackagePath": "staticwebassets\\assets\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\logo192.png",
+      "PackagePath": "staticwebassets\\logo192.png"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\logo512.png",
+      "PackagePath": "staticwebassets\\logo512.png"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\manifest.json",
+      "PackagePath": "staticwebassets\\manifest.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\precache-manifest.6ac348bde47ba52ac4b5b738fac1a940.js",
+      "PackagePath": "staticwebassets\\precache-manifest.6ac348bde47ba52ac4b5b738fac1a940.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\robots.txt",
+      "PackagePath": "staticwebassets\\robots.txt"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\service-worker.js",
+      "PackagePath": "staticwebassets\\service-worker.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\static\\css\\2.844e9ec3.chunk.css",
+      "PackagePath": "staticwebassets\\static\\css\\2.844e9ec3.chunk.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\static\\css\\2.844e9ec3.chunk.css.map",
+      "PackagePath": "staticwebassets\\static\\css\\2.844e9ec3.chunk.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\static\\css\\main.1ff375fb.chunk.css",
+      "PackagePath": "staticwebassets\\static\\css\\main.1ff375fb.chunk.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\static\\css\\main.1ff375fb.chunk.css.map",
+      "PackagePath": "staticwebassets\\static\\css\\main.1ff375fb.chunk.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\static\\js\\2.7d47a796.chunk.js",
+      "PackagePath": "staticwebassets\\static\\js\\2.7d47a796.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\static\\js\\2.7d47a796.chunk.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\2.7d47a796.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\static\\js\\3.3d75ae59.chunk.js",
+      "PackagePath": "staticwebassets\\static\\js\\3.3d75ae59.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\static\\js\\3.3d75ae59.chunk.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\3.3d75ae59.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\static\\js\\main.3494b0e8.chunk.js",
+      "PackagePath": "staticwebassets\\static\\js\\main.3494b0e8.chunk.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\static\\js\\main.3494b0e8.chunk.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\main.3494b0e8.chunk.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\static\\media\\brand-icons.13db00b7.eot",
+      "PackagePath": "staticwebassets\\static\\media\\brand-icons.13db00b7.eot"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\static\\media\\brand-icons.a046592b.woff",
+      "PackagePath": "staticwebassets\\static\\media\\brand-icons.a046592b.woff"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\static\\media\\brand-icons.a1a749e8.svg",
+      "PackagePath": "staticwebassets\\static\\media\\brand-icons.a1a749e8.svg"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\static\\media\\brand-icons.c5ebe0b3.ttf",
+      "PackagePath": "staticwebassets\\static\\media\\brand-icons.c5ebe0b3.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\static\\media\\brand-icons.e8c322de.woff2",
+      "PackagePath": "staticwebassets\\static\\media\\brand-icons.e8c322de.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\static\\media\\flags.9c74e172.png",
+      "PackagePath": "staticwebassets\\static\\media\\flags.9c74e172.png"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\static\\media\\icons.0ab54153.woff2",
+      "PackagePath": "staticwebassets\\static\\media\\icons.0ab54153.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\static\\media\\icons.8e3c7f55.eot",
+      "PackagePath": "staticwebassets\\static\\media\\icons.8e3c7f55.eot"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\static\\media\\icons.962a1bf3.svg",
+      "PackagePath": "staticwebassets\\static\\media\\icons.962a1bf3.svg"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\static\\media\\icons.b87b9ba5.ttf",
+      "PackagePath": "staticwebassets\\static\\media\\icons.b87b9ba5.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\static\\media\\icons.faff9214.woff",
+      "PackagePath": "staticwebassets\\static\\media\\icons.faff9214.woff"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\static\\media\\outline-icons.701ae6ab.eot",
+      "PackagePath": "staticwebassets\\static\\media\\outline-icons.701ae6ab.eot"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\static\\media\\outline-icons.82f60bd0.svg",
+      "PackagePath": "staticwebassets\\static\\media\\outline-icons.82f60bd0.svg"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\static\\media\\outline-icons.ad97afd3.ttf",
+      "PackagePath": "staticwebassets\\static\\media\\outline-icons.ad97afd3.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\static\\media\\outline-icons.cd6c777f.woff2",
+      "PackagePath": "staticwebassets\\static\\media\\outline-icons.cd6c777f.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\api\\wwwroot\\static\\media\\outline-icons.ef60a4f6.woff",
+      "PackagePath": "staticwebassets\\static\\media\\outline-icons.ef60a4f6.woff"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.API.props",
+      "PackagePath": "build\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.API.props",
+      "PackagePath": "buildMultiTargeting\\API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.API.props",
+      "PackagePath": "buildTransitive\\API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
