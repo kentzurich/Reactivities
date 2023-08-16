@@ -210,3 +210,5 @@ C:\Users\kentz\Documents\GitHub\Repositories\Reactivities\API\obj\Debug\net7.0\r
 C:\Users\kentz\Documents\GitHub\Repositories\Reactivities\API\obj\Debug\net7.0\API.pdb
 c:\Users\kentz\Documents\GitHub\Repositories\Reactivities\API\obj\Debug\net7.0\API.genruntimeconfig.cache
 c:\Users\kentz\Documents\GitHub\Repositories\Reactivities\API\obj\Debug\net7.0\ref\API.dll
+C:\Users\kentz\Documents\GitHub\Repositories\Reactivities\API\bin\Debug\net7.0\SendGrid.dll
+C:\Users\kentz\Documents\GitHub\Repositories\Reactivities\API\bin\Debug\net7.0\StarkbankEcdsa.dll

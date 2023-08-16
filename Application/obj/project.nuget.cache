@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y0kYbrGXF53NPuFIoDhhNN+uI2r7oAlPhPrUuqVa7qRetBETKTp15kPPuE1hMeDr+EShuArY6LOzC3jxoNmrOw==",
+  "dgSpecHash": "WHJQByFy0MhoDkmVbIlEYl5HkmrXS0Al4MdnFX6py6VN7lftX3wkUOFsYvpSTiLvfxfRprEhuDancw+LFTVNvw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kentz\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\kentz\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

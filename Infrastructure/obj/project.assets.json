@@ -4914,8 +4914,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "c:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Application\\Application.csproj": {
-              "projectPath": "c:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Application\\Application.csproj"
+            "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Application\\Application.csproj"
             }
           }
         }
