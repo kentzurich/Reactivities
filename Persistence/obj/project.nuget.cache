@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hPzY6+7aLwEcHdOjMToqWczRDQHAitBznSHCJjHUPktE2is+0PKzdAhHs0TrEjfx/FAGhrll+NJaBpnFRorN9A==",
+  "dgSpecHash": "uOCeIavDEV4Lz6/v2EUVf7dJn+krZxUvs84YoDRTVaBPlkD0wiYhDKikDNaRFVa2CYAHl4if3rLjWOYbDZ+ZJw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\Persistence\\Persistence.csproj",
+  "projectFilePath": "c:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kentz\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.9\\microsoft.aspnetcore.cryptography.internal.7.0.9.nupkg.sha512",
     "C:\\Users\\kentz\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.9\\microsoft.aspnetcore.cryptography.keyderivation.7.0.9.nupkg.sha512",

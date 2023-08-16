@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XJakHLlE8HQZhtJoB4hfMkoeeXcAPMEjU6XowxqIo6xRRbpiCPnsFUNZ/YCLZGDT2OEzxeXkOq0OdruEvrnSmQ==",
+  "dgSpecHash": "XqCBmbf6gYHQAhVZx3430RUipJbeUN/rUsxj+ZpbhuO+U+PMHMjXEfCgLP3poHGVaYJwgmHWqo3cPKnZWeGROA==",
   "success": true,
-  "projectFilePath": "c:\\Users\\kentz\\Documents\\GitHub\\Complete-guide-to-building-an-app-with-.Net-Core-and-React\\Reactivities\\Domain\\Domain.csproj",
+  "projectFilePath": "c:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Domain\\Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kentz\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\7.0.9\\microsoft.aspnetcore.cryptography.internal.7.0.9.nupkg.sha512",
     "C:\\Users\\kentz\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\7.0.9\\microsoft.aspnetcore.cryptography.keyderivation.7.0.9.nupkg.sha512",

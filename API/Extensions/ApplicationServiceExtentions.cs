@@ -3,6 +3,7 @@ using Application.Core;
 using Application.Interfaces;
 using FluentValidation;
 using FluentValidation.AspNetCore;
+using Infrastructure.Email;
 using Infrastructure.Photos;
 using Infrastructure.Security;
 using MediatR;
@@ -80,6 +81,7 @@ namespace API.Extensions
 
             services.AddScoped<IPhotoAccessor, PhotoAccessor>();
             services.AddScoped<IUserAccessor, UserAccessor>();
+            services.AddScoped<EmailSender>();
 
             return services;
         }
