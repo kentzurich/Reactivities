@@ -14,6 +14,7 @@ primary_region = "sin"
   Cloudinary__Cloudname="dtrzcop0e"
   Cloudinary__ApiKey="227945754868686"
   Facebook__AppId="1745409969236898"
+  SendGrid__User="reactivities-ph"
 
 [http_service]
   internal_port = 8080

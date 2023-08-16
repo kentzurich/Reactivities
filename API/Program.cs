@@ -33,7 +33,7 @@ app.UseCsp(options => {
     options
         .BlockAllMixedContent()
         .StyleSources(s => s.Self()
-            .CustomSources("https://fonts.googleapis.com/", "sha256-DpOoqibK/BsYhobWHnU38Pyzt5SjDZuR/mFsAiVN7kk="))
+            .CustomSources("https://fonts.googleapis.com/", "sha256-VdJLYZrBOhBJj2L4/+iZupDWpR1sppzSbgJzXdO/Oss="))
         .FontSources(s => s.Self()
             .CustomSources("https://fonts.gstatic.com/", "data:"))
         .FormActions(s => s.Self())

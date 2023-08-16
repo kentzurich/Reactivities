@@ -25,8 +25,10 @@ export default class UserStore {
             runInAction(() => this.user = user);
             router.navigate('/activities');
             store.modalStore.closeModal();
-        } catch (error) {
-            throw error;
+        } catch (error: any) {
+            if(error.response.status === 400) throw error;
+            store.modalStore.closeModal();
+            console.log(500);
         }
     }
 
