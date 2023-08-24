@@ -12,6 +12,7 @@ export default class ActivityStore {
     editMode = false;
     loading = false;
     loadingInitial = true;
+    isRefresh = true;
     pagination: Pagination | null = null;
     pagingParams = new PagingParams();
     predicate = new Map().set('all', true);
@@ -42,18 +43,22 @@ export default class ActivityStore {
 
         switch (predicate) {
             case 'all':
+                this.setLoadingInitial(true);
                 resetPredicate();
                 this.predicate.set('all', true);
                 break;
             case 'isGoing':
+                this.setLoadingInitial(true);
                 resetPredicate();
                 this.predicate.set('isGoing', true);
                 break;
             case 'isHost':
+                this.setLoadingInitial(true);
                 resetPredicate();
                 this.predicate.set('isHost', true);
                 break;
             case 'startDate':
+                this.setLoadingInitial(true);
                 this.predicate.delete('startDate');
                 this.predicate.set('startDate', value);
                 break;
