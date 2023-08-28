@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Domain\\Domain.csproj": {}
+    "c:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Domain\\Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Domain\\Domain.csproj": {
+    "c:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "c:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "c:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\kentz\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Domain\\obj\\",
+        "outputPath": "c:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -66,7 +66,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

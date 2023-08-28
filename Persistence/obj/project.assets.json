@@ -1441,8 +1441,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Domain\\Domain.csproj"
+            "c:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Domain\\Domain.csproj": {
+              "projectPath": "c:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Domain\\Domain.csproj"
             }
           }
         }
@@ -1482,7 +1482,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

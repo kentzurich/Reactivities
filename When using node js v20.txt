@@ -1,0 +1,6 @@
+   "scripts": {
+    "start": "set HTTPS=true && set SSL_CRT_FILE=./localhost.pem && set SSL_KEY_FILE=./localhost-key.pem && react-app-rewired --openssl-legacy-provider start",
+    "build": "set BUILD_PATH=../API/wwwroot && react-app-rewired --openssl-legacy-provider build",
+    "test": "react-app-rewired test",
+    "eject": "react-app-rewired eject"
+  },

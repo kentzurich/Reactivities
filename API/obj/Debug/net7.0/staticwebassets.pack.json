@@ -61,8 +61,8 @@
       "PackagePath": "staticwebassets\\manifest.json"
     },
     {
-      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\precache-manifest.99ca41969ef5011be203f69ed01f563a.js",
-      "PackagePath": "staticwebassets\\precache-manifest.99ca41969ef5011be203f69ed01f563a.js"
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\precache-manifest.f25f40e15c677eae1aaed8fd0b2cd677.js",
+      "PackagePath": "staticwebassets\\precache-manifest.f25f40e15c677eae1aaed8fd0b2cd677.js"
     },
     {
       "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\robots.txt",
@@ -73,12 +73,12 @@
       "PackagePath": "staticwebassets\\service-worker.js"
     },
     {
-      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\static\\css\\2.8a4013aa.chunk.css",
-      "PackagePath": "staticwebassets\\static\\css\\2.8a4013aa.chunk.css"
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\static\\css\\2.6f6b6ff2.chunk.css",
+      "PackagePath": "staticwebassets\\static\\css\\2.6f6b6ff2.chunk.css"
     },
     {
-      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\static\\css\\2.8a4013aa.chunk.css.map",
-      "PackagePath": "staticwebassets\\static\\css\\2.8a4013aa.chunk.css.map"
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\static\\css\\2.6f6b6ff2.chunk.css.map",
+      "PackagePath": "staticwebassets\\static\\css\\2.6f6b6ff2.chunk.css.map"
     },
     {
       "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\static\\css\\main.8c9e9d64.chunk.css",
@@ -89,36 +89,36 @@
       "PackagePath": "staticwebassets\\static\\css\\main.8c9e9d64.chunk.css.map"
     },
     {
-      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\static\\js\\2.4669ffcb.chunk.js",
-      "PackagePath": "staticwebassets\\static\\js\\2.4669ffcb.chunk.js"
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\static\\js\\2.90bf08ec.chunk.js",
+      "PackagePath": "staticwebassets\\static\\js\\2.90bf08ec.chunk.js"
     },
     {
-      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\static\\js\\2.4669ffcb.chunk.js.map",
-      "PackagePath": "staticwebassets\\static\\js\\2.4669ffcb.chunk.js.map"
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\static\\js\\2.90bf08ec.chunk.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\2.90bf08ec.chunk.js.map"
     },
     {
-      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\static\\js\\3.3d75ae59.chunk.js",
-      "PackagePath": "staticwebassets\\static\\js\\3.3d75ae59.chunk.js"
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\static\\js\\3.bf0e9a65.chunk.js",
+      "PackagePath": "staticwebassets\\static\\js\\3.bf0e9a65.chunk.js"
     },
     {
-      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\static\\js\\3.3d75ae59.chunk.js.map",
-      "PackagePath": "staticwebassets\\static\\js\\3.3d75ae59.chunk.js.map"
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\static\\js\\3.bf0e9a65.chunk.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\3.bf0e9a65.chunk.js.map"
     },
     {
-      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\static\\js\\main.1250dc4f.chunk.js",
-      "PackagePath": "staticwebassets\\static\\js\\main.1250dc4f.chunk.js"
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\static\\js\\main.169adce5.chunk.js",
+      "PackagePath": "staticwebassets\\static\\js\\main.169adce5.chunk.js"
     },
     {
-      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\static\\js\\main.1250dc4f.chunk.js.map",
-      "PackagePath": "staticwebassets\\static\\js\\main.1250dc4f.chunk.js.map"
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\static\\js\\main.169adce5.chunk.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\main.169adce5.chunk.js.map"
     },
     {
-      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\static\\js\\runtime~main.9157a241.js",
-      "PackagePath": "staticwebassets\\static\\js\\runtime~main.9157a241.js"
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\static\\js\\runtime~main.6a7e60ec.js",
+      "PackagePath": "staticwebassets\\static\\js\\runtime~main.6a7e60ec.js"
     },
     {
-      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\static\\js\\runtime~main.9157a241.js.map",
-      "PackagePath": "staticwebassets\\static\\js\\runtime~main.9157a241.js.map"
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\static\\js\\runtime~main.6a7e60ec.js.map",
+      "PackagePath": "staticwebassets\\static\\js\\runtime~main.6a7e60ec.js.map"
     },
     {
       "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\static\\media\\brand-icons.13db00b7.eot",

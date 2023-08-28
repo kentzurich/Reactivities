@@ -13,6 +13,7 @@ import MyTextArea from '../../../app/common/form/MyTextArea';
 import MySelectInput from '../../../app/common/form/MySelectInput';
 import { categoryOptions } from '../../../app/common/options/categoryOptions';
 import MyDateInput from '../../../app/common/form/MyDateInput';
+import MyDateInputSUI from '../../../app/common/form/MyDateInputSUI';
 
 export default observer(function ActivityForm() {
     const {activityStore} = useStore();
@@ -70,6 +71,10 @@ export default observer(function ActivityForm() {
                             timeCaption='time'
                             dateFormat='MMMM d, yyyy h:mm aa'
                         />
+                        {/* <MyDateInputSUI
+                            name='date'
+                            datePickerOnly={true}
+                        /> */}
                         <Header content='Location Details' sub color='teal' />
                         <MyTextInput placeholder='City' name='city' />
                         <MyTextInput placeholder='Venue' name='venue' />

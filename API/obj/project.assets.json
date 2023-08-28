@@ -5882,11 +5882,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\API.csproj",
+      "projectUniqueName": "c:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\API.csproj",
+      "projectPath": "c:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\API.csproj",
       "packagesPath": "C:\\Users\\kentz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\obj\\",
+      "outputPath": "c:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -5902,7 +5902,6 @@
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "C:\\Program Files\\dotnet\\library-packs": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -5912,8 +5911,8 @@
             "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Application\\Application.csproj": {
               "projectPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Application\\Application.csproj"
             },
-            "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Infrastructure\\Infrastructure.csproj"
+            "c:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "c:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
@@ -5974,7 +5973,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
