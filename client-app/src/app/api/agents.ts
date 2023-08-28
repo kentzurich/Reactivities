@@ -21,7 +21,7 @@ axios.interceptors.response.use(async response => {
     const pagination = response.headers['pagination'];
     if(pagination) {
         response.data = new PaginatedResult(response.data, JSON.parse(pagination));
-        return response as AxiosResponse<PaginatedResult<any>>;
+        return response as AxiosResponse<PaginatedResult<unknown>>;
     }
     
     return response;
@@ -30,7 +30,7 @@ axios.interceptors.response.use(async response => {
 
     switch (status) {
         case 400:
-            if(config.method === 'get' && data.errors.hasOwnProperty('id')) 
+            if(config.method === 'get' && Object.prototype.hasOwnProperty.call(data.errors, 'id')) 
                 router.navigate('/not-found');
 
             if(data.errors) {
@@ -75,8 +75,8 @@ axios.interceptors.request.use(config => {
 
 const request = {
     get: <T> (url: string) => axios.get<T>(url).then(responseBody),
-    post: <T> (url: string, body: {}) => axios.post<T>(url, body).then(responseBody),
-    put: <T> (url: string, body: {}) => axios.put<T>(url, body).then(responseBody),
+    post: <T> (url: string, body: object) => axios.post<T>(url, body).then(responseBody),
+    put: <T> (url: string, body: object) => axios.put<T>(url, body).then(responseBody),
     del: <T> (url: string) => axios.delete<T>(url).then(responseBody),
 }
 
@@ -104,7 +104,7 @@ const account = {
 const profiles = {
     get: (username: string) => request.get<Profile>(`/profiles/${username}`),
     uploadPhoto: (file: Blob) => {
-        let formData = new FormData();
+        const formData = new FormData();
         formData.append('File', file);
         return axios.post<Photo>('photos', formData, {
             headers: {'Content-type': 'multipart/form-data'}

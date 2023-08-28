@@ -16,7 +16,7 @@ export default observer(function ProfileEditform({setEditMode}: Props) {
     const {profileStore: {profile, updateProfile}} = useStore();
     return (
         <Formik 
-            initialValues={{displayName: profile!.displayName, bio: profile!.bio, error: null}}
+            initialValues={{displayName: profile?.displayName, bio: profile?.bio, error: null}}
             onSubmit={(values, {setErrors}) => {
                 updateProfile(values).then(() => {
                     setEditMode(false);

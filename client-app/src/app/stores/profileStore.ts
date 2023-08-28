@@ -31,7 +31,7 @@ export default class ProfileStore {
         )
     }
 
-    setactiveTab = (activeTab: any) => {
+    setactiveTab = (activeTab: number) => {
         this.activeTab = activeTab;
     }
 
@@ -61,7 +61,7 @@ export default class ProfileStore {
             const photo = response.data
             runInAction(() => {
                 if(this.profile) {
-                    this.profile.photos!.push(photo);
+                    this.profile.photos?.push(photo);
 
                     if(photo.isMain && store.userStore.user) {
                         store.userStore.setImage(photo.url);
@@ -101,7 +101,7 @@ export default class ProfileStore {
             await agent.profiles.deletePhoto(photo.id);
             runInAction(() => {
                 if(this.profile) {
-                    this.profile.photos = this.profile.photos!.filter(p => p.id !== photo.id);
+                    this.profile.photos = this.profile.photos?.filter(p => p.id !== photo.id);
                     this.loading = false
                 }
             });
@@ -117,7 +117,7 @@ export default class ProfileStore {
             await agent.profiles.updateProfile(profile);
             runInAction(() => {
                 if(profile.displayName && profile.displayName !==
-                    store.userStore.user!.displayName) {
+                    store.userStore.user?.displayName) {
                     store.userStore.setDisplayName(profile.displayName);
                 }
                 this.profile = {...this.profile, ...profile as Profile};
@@ -135,13 +135,13 @@ export default class ProfileStore {
             await agent.profiles.updateFollowing(username);
             store.activityStore.updateAttendeeFollowing(username);
             runInAction(() => {
-                if(this.profile && this.profile.username !== store.userStore.user!.username 
+                if(this.profile && this.profile.username !== store.userStore.user?.username 
                         && this.profile.username === username) {
                     following ? this.profile.followersCount++ : this.profile.followersCount--;
                     this.profile.following = !this.profile.following;
                 }
 
-                if(this.profile && this.profile.username === store.userStore.user!.username) {
+                if(this.profile && this.profile.username === store.userStore.user?.username) {
                     following ? this.profile.followingCount++ : this.profile.followingCount--;
                 }
 

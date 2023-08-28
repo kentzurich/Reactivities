@@ -1767,11 +1767,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Application\\Application.csproj",
+      "projectUniqueName": "c:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Application\\Application.csproj",
+      "projectPath": "c:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\kentz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Application\\obj\\",
+      "outputPath": "c:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1796,8 +1796,8 @@
             "c:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Domain\\Domain.csproj": {
               "projectPath": "c:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Persistence\\Persistence.csproj": {
-              "projectPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Persistence\\Persistence.csproj"
+            "c:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Persistence\\Persistence.csproj": {
+              "projectPath": "c:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Persistence\\Persistence.csproj"
             }
           }
         }

@@ -1,4 +1,3 @@
-import React from "react";
 import { Link } from "react-router-dom";
 import { Button, Container, Divider, Header, Image, Segment } from "semantic-ui-react";
 import { useStore } from "../../app/stores/store";
@@ -18,7 +17,7 @@ export default observer(function HomePage() {
                 </Header>
                 {userStore.isLoggedIn ? (
                     <>
-                        <Header as='h2' inverted content={`Welcome back ${userStore.user!.displayName}`} />
+                        <Header as='h2' inverted content={`Welcome back ${userStore.user?.displayName}`} />
                         <Button as={Link} to='/activities' size='huge' inverted>
                             Go to activities!
                         </Button>

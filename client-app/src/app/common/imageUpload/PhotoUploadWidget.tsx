@@ -1,5 +1,5 @@
-import React, { useEffect, useState } from "react";
-import { Button, Grid, Header, Image } from "semantic-ui-react";
+import { useEffect, useState } from "react";
+import { Button, Grid, Header } from "semantic-ui-react";
 import PhotoWidgetDropZone from "./PhotoWidgetDropzone";
 import PhotoWidgetCropper from "./PhotoWidgetCropper";
 
@@ -9,7 +9,7 @@ interface Props {
 }
 
 export default function PhotoUploadWidget({loading, uploadPhoto}: Props) {
-    const [files, setFiles] = useState<any>([]);
+    const [files, setFiles] = useState<object & {preview?: string}[]>([]);
     const [cropper, setCropper] = useState<Cropper>();
 
     function onCrop() {
@@ -19,7 +19,7 @@ export default function PhotoUploadWidget({loading, uploadPhoto}: Props) {
 
     useEffect(() => {
         return () => {
-            files.forEach((file: any) => URL.revokeObjectURL(file.preview));
+            files.forEach((file: object & {preview?: string}) => URL.revokeObjectURL(file.preview!));
         }
     }, [files]);
 
@@ -35,7 +35,7 @@ export default function PhotoUploadWidget({loading, uploadPhoto}: Props) {
                 {files && files.length > 0 && (
                     <PhotoWidgetCropper 
                         setCropper={setCropper} 
-                        imagePreview={files[0].preview}
+                        imagePreview={files[0].preview!}
                     />
                 )}
             </Grid.Column>

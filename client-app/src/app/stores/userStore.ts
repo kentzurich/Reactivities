@@ -25,10 +25,10 @@ export default class UserStore {
             runInAction(() => this.user = user);
             router.navigate('/activities');
             store.modalStore.closeModal();
-        } catch (error: any) {
-            if(error.response.status === 400) throw error;
+        } catch (error) {
+            // if(error.response.status === 400) throw error;
             store.modalStore.closeModal();
-            console.log(500);
+            console.log(error);
         }
     }
 
@@ -38,6 +38,7 @@ export default class UserStore {
             router.navigate(`/account/registerSuccess?email=${creds.email}`);
             store.modalStore.closeModal();
         } catch (error) {
+            console.log(error);
             throw error;
         }
     }

@@ -4888,11 +4888,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Infrastructure\\Infrastructure.csproj",
+      "projectUniqueName": "c:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Infrastructure\\Infrastructure.csproj",
       "projectName": "Infrastructure",
-      "projectPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Infrastructure\\Infrastructure.csproj",
+      "projectPath": "c:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Infrastructure\\Infrastructure.csproj",
       "packagesPath": "C:\\Users\\kentz\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Infrastructure\\obj\\",
+      "outputPath": "c:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -4914,8 +4914,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Application\\Application.csproj"
+            "c:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Application\\Application.csproj": {
+              "projectPath": "c:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\Application\\Application.csproj"
             }
           }
         }

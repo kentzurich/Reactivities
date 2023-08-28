@@ -17,19 +17,19 @@ export interface Activity {
 }
 
 export class Activity implements Activity {
-    constructor(init?: ActivityFormValues) {
+    constructor(init: ActivityFormValues) {
         Object.assign(this, init);
     }
 }
 
 export class ActivityFormValues {
-    id?: string = undefined;
-    title: string = '';
-    category: string = '';
-    description: string = '';
+    id? = undefined;
+    title = '';
+    category = '';
+    description = '';
     date: Date | null = null;
-    city: string = '';
-    venue: string = '';
+    city = '';
+    venue = '';
 
     constructor(activity?: ActivityFormValues) {
         if(activity) {

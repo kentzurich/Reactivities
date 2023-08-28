@@ -1,4 +1,3 @@
-import React from 'react'
 import { Segment, List, Label, Item, Image } from 'semantic-ui-react'
 import { Link } from 'react-router-dom'
 import { observer } from 'mobx-react-lite'
@@ -27,7 +26,7 @@ export default observer(function ActivityDetailedSidebar ({activity: {attendees,
                 <List relaxed divided>
                     {attendees.map(attendee => (
                         <Item style={{ position: 'relative' }} key={attendee.username}>
-                            {attendee.username === host!.username &&
+                            {attendee.username === host?.username &&
                                 <Label
                                     style={{ position: 'absolute' }}
                                     color='orange'

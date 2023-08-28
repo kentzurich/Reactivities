@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import { Button, Header, Segment } from 'semantic-ui-react';
 import { useStore } from '../../../app/stores/store';
 import { observer } from 'mobx-react-lite';
@@ -13,7 +13,6 @@ import MyTextArea from '../../../app/common/form/MyTextArea';
 import MySelectInput from '../../../app/common/form/MySelectInput';
 import { categoryOptions } from '../../../app/common/options/categoryOptions';
 import MyDateInput from '../../../app/common/form/MyDateInput';
-import MyDateInputSUI from '../../../app/common/form/MyDateInputSUI';
 
 export default observer(function ActivityForm() {
     const {activityStore} = useStore();
@@ -38,7 +37,7 @@ export default observer(function ActivityForm() {
 
     function handleFormSubmit(activity: ActivityFormValues) {
         if(!activity.id) {
-            let newActivity = {
+            const newActivity = {
                 ...activity,
                 id: uuid()
             }

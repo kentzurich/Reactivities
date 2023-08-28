@@ -36,7 +36,7 @@ export default class ActivityStore {
 
     setPredicate = (predicate: string, value: string | Date) => {
         const resetPredicate = () => {
-            this.predicate.forEach((value, key) => {
+            this.predicate.forEach((_, key) => {
                 if(key !== 'startDate') this.predicate.delete(key);
             })
         }
@@ -136,7 +136,7 @@ export default class ActivityStore {
     private setActivity = (activity: Activity) => {
         const user = store.userStore.user;
         if(user) {
-            activity.isGoing = activity.attendees!.some(
+            activity.isGoing = activity.attendees?.some(
                 a => a.username === user.username
             )
             activity.isHost = activity.hostUserName === user.username;
@@ -175,7 +175,7 @@ export default class ActivityStore {
             await agent.activities.update(activity);
             runInAction(() => {
                 if(activity.id) {
-                    let updatedActivity = {...this.getActivity(activity.id), ...activity}
+                    const updatedActivity = {...this.getActivity(activity.id), ...activity}
                     this.activityRegistry.set(activity.id, updatedActivity as Activity)
                     this.selectedActivity = updatedActivity as Activity;
                 }
@@ -208,13 +208,13 @@ export default class ActivityStore {
         try {
             await agent.activities.attend(this.selectedActivity!.id);
             runInAction(() => {
-                if(this.selectedActivity!.isGoing) {
-                    this.selectedActivity!.attendees = 
-                        this.selectedActivity!.attendees!.filter(a => a.username !== user!.username);
-                    this.selectedActivity!.isGoing = false;
+                if(this.selectedActivity?.isGoing) {
+                    this.selectedActivity.attendees = 
+                        this.selectedActivity.attendees.filter(a => a.username !== user?.username);
+                    this.selectedActivity.isGoing = false;
                 } else {
                     const attendee = new Profile(user!);
-                    this.selectedActivity!.attendees!.push(attendee);
+                    this.selectedActivity?.attendees?.push(attendee);
                     this.selectedActivity!.isGoing = true;
                 }
                 this.activityRegistry.set(this.selectedActivity!.id, this.selectedActivity!);
