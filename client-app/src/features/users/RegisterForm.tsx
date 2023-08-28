@@ -1,4 +1,3 @@
-import React from "react";
 import { ErrorMessage, Form, Formik } from "formik";
 import MyTextInput from "../../app/common/form/MyTextInput";
 import { Button, Header } from "semantic-ui-react";
@@ -34,7 +33,7 @@ export default observer(function RegisterForm() {
                     <MyTextInput placeholder="Password" name='password' type='password'/>
                     <ErrorMessage 
                         name='error'
-                        render={() => <ValidationError errors={errors.error} />}
+                        render={() => <ValidationError errors={errors as string[]} />}
                     />
                     <Button 
                         disabled={!isValid || !dirty || isSubmitting}

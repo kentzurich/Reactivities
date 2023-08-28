@@ -1,4 +1,3 @@
-import React from 'react';
 import { Navigate, RouteObject, createBrowserRouter } from "react-router-dom";
 import App from "../layout/App";
 import HomePage from '../../features/home/HomePage';

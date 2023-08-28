@@ -1,4 +1,3 @@
-import React from "react";
 import { Button, Container, Dropdown, Image, Menu } from "semantic-ui-react";
 import { Link, NavLink } from "react-router-dom";
 import { useStore } from "../stores/store";

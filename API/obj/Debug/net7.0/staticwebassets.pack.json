@@ -5,6 +5,26 @@
       "PackagePath": "staticwebassets\\asset-manifest.json"
     },
     {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\assets\\brand-icons-42e369dc.ttf",
+      "PackagePath": "staticwebassets\\assets\\brand-icons-42e369dc.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\assets\\brand-icons-6519a15b.svg",
+      "PackagePath": "staticwebassets\\assets\\brand-icons-6519a15b.svg"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\assets\\brand-icons-9fafd6c3.woff",
+      "PackagePath": "staticwebassets\\assets\\brand-icons-9fafd6c3.woff"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\assets\\brand-icons-d023c55f.eot",
+      "PackagePath": "staticwebassets\\assets\\brand-icons-d023c55f.eot"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\assets\\brand-icons-e7d4d534.woff2",
+      "PackagePath": "staticwebassets\\assets\\brand-icons-e7d4d534.woff2"
+    },
+    {
       "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\assets\\categoryImages\\culture.jpg",
       "PackagePath": "staticwebassets\\assets\\categoryImages\\culture.jpg"
     },
@@ -29,8 +49,60 @@
       "PackagePath": "staticwebassets\\assets\\categoryImages\\travel.jpg"
     },
     {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\assets\\flags-94d5c7f1.png",
+      "PackagePath": "staticwebassets\\assets\\flags-94d5c7f1.png"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\assets\\icons-282a64fb.svg",
+      "PackagePath": "staticwebassets\\assets\\icons-282a64fb.svg"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\assets\\icons-434466b5.woff2",
+      "PackagePath": "staticwebassets\\assets\\icons-434466b5.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\assets\\icons-8b4e1b84.eot",
+      "PackagePath": "staticwebassets\\assets\\icons-8b4e1b84.eot"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\assets\\icons-95b6a484.woff",
+      "PackagePath": "staticwebassets\\assets\\icons-95b6a484.woff"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\assets\\icons-cb7f81f5.ttf",
+      "PackagePath": "staticwebassets\\assets\\icons-cb7f81f5.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\assets\\index-435f2f6d.css",
+      "PackagePath": "staticwebassets\\assets\\index-435f2f6d.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\assets\\index-5b55e3ed.js",
+      "PackagePath": "staticwebassets\\assets\\index-5b55e3ed.js"
+    },
+    {
       "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\assets\\logo.png",
       "PackagePath": "staticwebassets\\assets\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\assets\\outline-icons-4537fa06.eot",
+      "PackagePath": "staticwebassets\\assets\\outline-icons-4537fa06.eot"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\assets\\outline-icons-4bc359c2.woff",
+      "PackagePath": "staticwebassets\\assets\\outline-icons-4bc359c2.woff"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\assets\\outline-icons-4d288344.woff2",
+      "PackagePath": "staticwebassets\\assets\\outline-icons-4d288344.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\assets\\outline-icons-67172172.ttf",
+      "PackagePath": "staticwebassets\\assets\\outline-icons-67172172.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\assets\\outline-icons-ae8fd02a.svg",
+      "PackagePath": "staticwebassets\\assets\\outline-icons-ae8fd02a.svg"
     },
     {
       "Id": "C:\\Users\\kentz\\Documents\\GitHub\\Repositories\\Reactivities\\API\\wwwroot\\assets\\placeholder.png",

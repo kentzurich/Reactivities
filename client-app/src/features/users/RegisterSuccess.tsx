@@ -1,4 +1,3 @@
-import React from 'react';
 import useQuery from '../../app/util/hooks';
 import agent from '../../app/api/agents';
 import { toast } from 'react-toastify';

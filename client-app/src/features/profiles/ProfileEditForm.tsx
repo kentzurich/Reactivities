@@ -1,5 +1,4 @@
 import { observer } from 'mobx-react-lite';
-import React from 'react';
 import { useStore } from '../../app/stores/store';
 import { ErrorMessage, Form, Formik } from 'formik';
 import * as Yup from 'yup';
@@ -33,7 +32,7 @@ export default observer(function ProfileEditform({setEditMode}: Props) {
                     <MyTextArea rows={3} placeholder='Add your bio' name='bio' />
                     <ErrorMessage 
                         name='error'
-                        render={() => <ValidationError errors={errors.error} />}
+                        render={() => <ValidationError errors={errors as string[]} />}
                     />
                     <Button 
                         disabled={!isValid || !dirty}
